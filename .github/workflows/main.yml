@@ -3,7 +3,6 @@ on:
 
 jobs:
   docker:
-    needs: get-version
     uses: guillaumedsde/qbittorrent-distroless/.github/workflows/docker.yml@master
     with:
       software-version: v0.7.1
