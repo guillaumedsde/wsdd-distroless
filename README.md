@@ -8,7 +8,7 @@
 [![Docker Stars](https://img.shields.io/docker/stars/guillaumedsde/wsdd)](https://hub.docker.com/r/guillaumedsde/wsdd)
 [![GitHub](https://img.shields.io/github/license/guillaumedsde/docker-wsdd)](https://github.com/guillaumedsde/docker-wsdd/blob/master/LICENSE.md)
 
-This repository contains the code to build a small and secure **[distroless](https://github.com/GoogleContainerTools/distroless)** **docker** image for **[Web Service Discovery host daemon (wsdd)](https://github.com/Jackett/Jackett)**.
+This repository contains the code to build a small and secure **[distroless](https://github.com/GoogleContainerTools/distroless)** **docker** image for **[Web Service Discovery host daemon (wsdd)](https://github.com/christgau/wsdd)**.
 The final images are built and hosted on the [dockerhub](https://hub.docker.com/r/guillaumedsde/wsdd).
 
 ## ✔️ Features summary
